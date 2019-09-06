@@ -1,2 +1,2 @@
-# ICT-306-TeraByte
+# ICT-306-ZetaByte
 TeraByte Repo
