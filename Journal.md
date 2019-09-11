@@ -1,4 +1,1 @@
-# ICT-306-ZetaByte
-TeraByte Repo
-Choix du Stack: OwnCloud
-lien : https://bitnami.com/stack/owncloud
+(11.9.2019, Johnny) Choix du Stack: october cms   lien : https://octobercms.com/
